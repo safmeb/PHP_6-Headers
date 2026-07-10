@@ -8,7 +8,7 @@
 <span>Выберете любимого персонажа</span>
   <ul>
     <li><a href="404.php">ошибка 404</a></li>
-    <li><a href="download.php">загрузка документа</a></li>
+    <li><a href="download.php?text=здравствуйте">загрузка документа</a></li>
     <li><a href="sessionstart.php">запуск сессии</a></li>
   </ul>
 
